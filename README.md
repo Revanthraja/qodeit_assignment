@@ -11,7 +11,7 @@ This project utilizes PyTorch to implement a deep learning model for object dete
 
 The project folder structure is organized as follows:
 
-- `data/`: Contains the Pascal VOC dataset and related data.
+
 - `models/`: Stores trained model checkpoints and logs.
 - `utils/`: Includes utility functions used in training and evaluation.
 - `train.py`: Script for training the object detection model.
